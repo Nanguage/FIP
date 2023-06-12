@@ -41,7 +41,7 @@
         - 细胞邻近关系分析
 
 
-## 参考资料：
+## 参考资料
 
 + [Introduction to Bioimage Analysis](https://bioimagebook.github.io/index.html)
 + [Scikit-image User Guide](https://scikit-image.org/docs/stable/user_guide/index.html)
